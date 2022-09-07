@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "lint": "eslint --ext .ts,.js,.vue ."
+  },
+  "devDependencies": {
+    "@mdi/font": "^6.6.96",
+    "@mdi/js": "^6.6.96",
+    "@nuxtjs/eslint-config-typescript": "^10.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.22.0",
+    "@typescript-eslint/parser": "^5.22.0",
+    "eslint": "^8.14.0",
+    "eslint-plugin-vue": "^8.7.1",
+    "nuxt": "3.0.0-rc.1",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "@vuepic/vue-datepicker": "^3.4.7",
+    "sass": "^1.51.0",
+    "vee-validate": "^4.5.11",
+    "vue3-datepicker": "^0.3.4",
+    "vuetify": "3.0.0-beta.1",
+    "yup": "^0.32.11"
+  }
+}
